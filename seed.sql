@@ -13,5 +13,6 @@ VALUES
 (9000, "shampoo", "bathroom", "8.99", "20"),
 (10000, "clock", "bedroom", "6.99", "20");
 
+SELECT * FROM products;
 
 
